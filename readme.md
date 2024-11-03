@@ -7,9 +7,8 @@ In this repository are listed small practical projects to improve your experienc
 Writing code and dedicating yourself to it is no easy task. So, the more you learn about the IDE, the better and more efficient it will be, and you can dedicate yourself to learning clean and well-made code.
 
 #
-![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)
-#
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-#
-[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-#
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,maven,idea,java&theme=light" />
+  </a>
+</p>
